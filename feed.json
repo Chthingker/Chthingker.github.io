@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "uutiych",
+    "subtitle": "uutiych_blogs",
+    "icon": "http://www.uutiych.top/images/favicon.ico",
+    "description": "你好呀！",
+    "home_page_url": "http://www.uutiych.top",
+    "items": [
+        {
+            "id": "http://www.uutiych.top/2023/08/08/new-post/",
+            "url": "http://www.uutiych.top/2023/08/08/new-post/",
+            "title": "new post",
+            "date_published": "2023-08-08T00:05:21.000Z",
+            "content_html": "<h1 id=\"课内\"><a class=\"anchor\" href=\"#课内\">#</a> 课内</h1>\n<p>全过程课程： 计算机图形学（全英文）  编译原理  操作系统   通信原理</p>\n<p>1-8 周： 汇编语言程序设计  毛泽东思想  云计算</p>\n<p>11-18 周： 微型计算机接口技术   习近平新时代特色社会主义    就业指导</p>\n<p>高数</p>\n<p>英语</p>\n<p>考研数学</p>\n<p>考研英语词汇：（阅读习惯，写作习惯）</p>\n<p>课内政治基础知识点整理（方便背，随便留点印象就好，主要是记出框架，详细就好）</p>\n<p>这个的主战场是图书馆：图书馆那地方就是学课内用的</p>\n<h1 id=\"运动\"><a class=\"anchor\" href=\"#运动\">#</a> 运动</h1>\n<p>完成课内之后就去打球<br />\n调整状态后就去攻克自身的知识点</p>\n<h1 id=\"自身目标\"><a class=\"anchor\" href=\"#自身目标\">#</a> 自身目标：</h1>\n<ul>\n<li>\n<p><strong>FMCW 雷达项目</strong>：心跳呼吸检测：<br />\n这个重交流，我要清楚师兄师姐们在做什么，看论文资料全部整理好方便写作使用也清楚自己要做什么<br />\n Matlab 官网的示例项目可以跟：信号处理 —— 人工智能<br />\n跟进最新的论文： 技术  尤其是神经网络</p>\n</li>\n<li>\n<p><strong>AI 基础</strong>：    最后一学期：完全掌握：李沐的动手深度学习，PyTorch 以及机器学习基础完结：sklearn 以及  深度学习机器学习的笔记整理</p>\n</li>\n<li>\n<p><strong>算法</strong>：  主要：搜索，树，等高阶的数据结构  以及相关算法题<br />\n巩固方面：算法进阶课即可<br />\n目标节点： 算法进阶课以及基础课刷完 加上：不定期的 CS 比赛</p>\n<pre><code>  书籍储存： 《数据结构编程》 《算法竞赛经典系列》《ACM的手册-题册等》 《挑战程序设计》\n\n  打比赛太耗时间，不如积累\n</code></pre>\n</li>\n<li>\n<p><strong>软件</strong>： 继续 Go 语言为主： 深入，因为这是最近兴起的，被大家所接受的，而且我上手十分舒服的<br />\n学习上：JavaWeb  全栈技术的学习</p>\n<pre><code>  Web应用就好了，特定操作系统的会有点小麻烦，而且这个通了那个相对成本高\n</code></pre>\n</li>\n<li>\n<p><strong>数模</strong>：  其实就是学习有用的数学知识，学习写作论文，能把有用的东西写出来：英文论文能力，等研究能力；抽象模型能力等；</p>\n<pre><code>  数模培训\n  数模书籍等：\n  最重要的是整理自己的论文以及所学知识以及应用：记录\n</code></pre>\n</li>\n</ul>\n<hr />\n<h1 id=\"note\"><a class=\"anchor\" href=\"#note\">#</a> Note</h1>\n<p>课内尽量远离屏幕，  用笔记本来记录</p>\n<p>个人发展方面正好练习电子文档能力  论文能力</p>\n<p>自身发展重要的是笔记能力，将自己的学习  能够做很好的文档  就是一方面是记录</p>\n<p>另一方面是自己的踏实的进步，也方便复习   以及使用</p>\n",
+            "tags": []
+        },
+        {
+            "id": "http://www.uutiych.top/2023/08/07/hello-world/",
+            "url": "http://www.uutiych.top/2023/08/07/hello-world/",
+            "title": "Hello World",
+            "date_published": "2023-08-07T12:36:44.439Z",
+            "content_html": "<p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo new <span class=\"token string\">\"My New Post\"</span></pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo server</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo generate</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",
+            "tags": []
+        }
+    ]
+}
