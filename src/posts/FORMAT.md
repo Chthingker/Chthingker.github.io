@@ -115,7 +115,25 @@ ID 优先级：`文件名前缀数字 > frontmatter.id > 文件名 hash`
 
 ---
 
-## 四、精选文章控制
+## 四、图片
+
+图片放在 `public/images/` 目录下，在文章中用 Markdown 图片语法引用：
+
+```markdown
+![图片描述](/images/你放进去的图片名.png)
+```
+
+例如放了 `public/images/ink-wash.jpg`：
+
+```markdown
+![水墨效果图](/images/ink-wash.jpg)
+```
+
+> 图片路径以 `/images/` 开头，构建后会自动映射到正确位置。支持 jpg、png、gif、webp、svg 格式。
+
+---
+
+## 五、精选文章控制
 
 见 `src/config/site.ts` 中的 `featured` 配置：
 

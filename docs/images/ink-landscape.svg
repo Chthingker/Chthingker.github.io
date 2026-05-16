@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+  <rect width="600" height="300" fill="#f5f0e8"/>
+  <!-- 远山 -->
+  <path d="M0 250 Q80 120 160 200 Q200 160 260 180 Q300 100 370 170 Q420 130 480 160 Q530 110 600 180 L600 300 L0 300Z" fill="#8c8c8c" opacity="0.3"/>
+  <!-- 近山 -->
+  <path d="M0 280 Q60 200 120 240 Q180 180 260 230 Q340 170 400 220 Q460 190 520 230 Q560 200 600 240 L600 300 L0 300Z" fill="#555" opacity="0.15"/>
+  <!-- 太阳 -->
+  <circle cx="480" cy="80" r="28" fill="#c23a2b" opacity="0.6"/>
+  <!-- 松枝 -->
+  <path d="M100 280 Q110 240 120 260 Q130 220 140 250 Q150 200 160 240 Q170 210 175 250 L180 280Z" fill="#5b7b4a" opacity="0.4"/>
+  <!-- 小船 -->
+  <path d="M280 260 Q290 255 310 255 Q330 255 340 260 L310 270Z" fill="#1a1a1a" opacity="0.3"/>
+  <line x1="310" y1="255" x2="310" y2="240" stroke="#1a1a1a" stroke-width="1" opacity="0.2"/>
+  <!-- 飞鸟 -->
+  <path d="M200 110 Q205 105 210 110" stroke="#555" stroke-width="1.5" fill="none" opacity="0.3"/>
+  <path d="M218 100 Q223 95 228 100" stroke="#555" stroke-width="1.5" fill="none" opacity="0.3"/>
+  <!-- 印章 -->
+  <rect x="520" y="260" width="28" height="28" fill="none" stroke="#c23a2b" stroke-width="1.5" opacity="0.5" transform="rotate(-5 534 274)"/>
+  <text x="534" y="281" text-anchor="middle" font-family="serif" font-size="14" fill="#c23a2b" opacity="0.5" transform="rotate(-5 534 274)">韵</text>
+  <!-- 题字 -->
+  <text x="50" y="175" font-family="'Ma Shan Zheng', serif" font-size="28" fill="#1a1a1a" opacity="0.35" letter-spacing="6">墨韵山水</text>
+  <text x="50" y="205" font-family="'Ma Shan Zheng', serif" font-size="14" fill="#555" opacity="0.25" letter-spacing="4">丙午年 · 春</text>
+</svg>

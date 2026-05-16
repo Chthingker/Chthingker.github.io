@@ -100,3 +100,18 @@ ol.markdown-list > li::marker {
 .markdown-body em {
   color: var(--ink-medium);
 }
+
+/* Images */
+.ink-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: var(--spacing-lg) auto;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--ink-faint);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+}
+
+.ink-image:hover {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}

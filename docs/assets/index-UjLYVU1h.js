@@ -120,6 +120,40 @@ tags: [园林, 江南, 建筑]
 readingTime: 6
 type: prose
 ---
+
+江南园林，是中国文人心中最柔软的梦。
+
+*咫尺之内再造乾坤*——这是造园的最高境界。不过方寸之地，却要容纳山川湖泊、四时景致。
+
+## 叠山理水
+
+山为骨架，水为血脉。
+
+江南园林中的假山，讲究"瘦、漏、透、皱"。一块太湖石，百孔千疮，却能在虚实之间引人无限遐想。
+
+池水不在于大，而在于曲。曲径通幽处，禅房花木深。一弯清水，便能映照天地。
+
+> 园中有画，画中有园。——《园冶》
+
+## 亭台楼阁
+
+亭者，停也。行人至此，可驻足小憩。
+
+一座亭子的位置，决定了整个园林的视线焦点。拙政园的"与谁同坐轩"，留园的"闻木樨香轩"，名字本身就是一首诗。
+
+## 借景
+
+造园最妙的手法，在于借景。
+
+远处的一座塔，邻家的一枝梅，都能借入园中。四季流转，朝暮更替，每一刻的景色都不相同。
+
+春有海棠，夏有荷，秋有丹桂，冬有梅。一园之内，可观四时之变。
+
+## 尾声
+
+庭院深深深几许。
+
+江南园林的美，不在宏大的格局，而在于每一处细节的用心。一石一木，一亭一池，都是文人墨客心中的山水。
 `,h=`---
 title: 茶道：一盏清茗洗尘心
 excerpt: 茶者，南方之嘉木也。其性洁，其味淡，其韵长。焚香静坐，煮水候汤，一盏清茗，足以涤荡尘心。
@@ -129,6 +163,41 @@ tags: [茶道, 禅意, 生活]
 readingTime: 4
 type: prose
 ---
+
+茶者，南方之嘉木也。
+
+陆羽在《茶经》中开篇便道出了茶的本源。而在我看来，茶的本事不在其味，而在其能让人**静下来**。
+
+## 煮水
+
+煮水是一门修行。
+
+水有三沸：一沸"鱼目"，二沸"涌泉连珠"，三沸"腾波鼓浪"。过了三沸，水就老了，不堪用。
+
+候汤的功夫，就是等。等着水开，等着茶醒，等着心静。
+
+## 出汤
+
+注水、温杯、醒茶、出汤。
+
+每一个动作都慢下来，心自然就静了。茶汤入盏，色如琥珀，香若幽兰。
+
+> 一杯清茗，可涤尘心。
+> 两腋生风，便欲登仙。
+
+## 品茶
+
+第一泡，苦涩；第二泡，回甘；第三泡，平淡。
+
+人生也是如此。年轻时尝尽苦涩，中年后方知回甘，到老才懂得平淡的可贵。
+
+## 生活如茶
+
+所谓茶道，不过是在日常中寻一份仪式感。
+
+不必名贵的茶具，不必稀有的茶叶。只需**一壶热水，一盏清茗**，便能在一杯茶的时间里，暂时放下尘世的烦扰。
+
+偷得浮生半日闲。
 `,g=`---
 title: 宋词里的雨：多少楼台烟雨中
 excerpt: 少年听雨歌楼上，红烛昏罗帐。壮年听雨客舟中，江阔云低、断雁叫西风。而今听雨僧庐下，鬓已星星也。
@@ -138,6 +207,39 @@ tags: [宋词, 雨, 诗词]
 readingTime: 7
 type: prose
 ---
+
+宋词里写雨的名篇，数不胜数。雨在词人的笔下，不只是天气，更是**心境**。
+
+## 蒋捷 · 虞美人
+
+> 少年听雨歌楼上，红烛昏罗帐。
+> 壮年听雨客舟中，江阔云低、断雁叫西风。
+> 而今听雨僧庐下，鬓已星星也。
+> 悲欢离合总无情，一任阶前、点滴到天明。
+
+蒋捷的这一首《虞美人》，用听雨串起了人的一生。少年风流、中年漂泊、晚年孤寂——**三种雨，三种人生**。
+
+## 李清照 · 声声慢
+
+> 寻寻觅觅，冷冷清清，凄凄惨惨戚戚。
+> 乍暖还寒时候，最难将息。
+> 梧桐更兼细雨，到黄昏、点点滴滴。
+> 这次第，怎一个愁字了得！
+
+李清照笔下的雨，是愁的化身。国破家亡之后，连雨声都带着悲凉。
+
+## 苏轼 · 定风波
+
+> 莫听穿林打叶声，何妨吟啸且徐行。
+> 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。
+
+苏轼的雨，却是**另一番境界**。不是躲雨，而是在雨中从容行走。"一蓑烟雨任平生"——**这七个字，道尽了东坡的豁达**。
+
+## 雨中感悟
+
+同是听雨，有人听出的是愁，有人听出的是禅，有人听出的是人生的无常。
+
+愿你下一次听雨时，能从中听到属于自己的那一份心境。
 `,_=`---
 title: 古琴·高山流水觅知音
 excerpt: 伯牙善鼓琴，钟子期善听。伯牙鼓琴，志在高山，钟子期曰：善哉，峨峨兮若泰山！志在流水，曰：善哉，洋洋兮若江河！
@@ -147,6 +249,44 @@ tags: [古琴, 知音, 典故]
 readingTime: 5
 type: prose
 ---
+
+这个故事，流传了两千多年。
+
+## 高山流水
+
+伯牙善鼓琴，钟子期善听。
+
+伯牙鼓琴，志在高山，钟子期曰："善哉，峨峨兮若泰山！"
+志在流水，钟子期曰："善哉，洋洋兮若江河！"
+
+伯牙所念，钟子期必得之。无论伯牙的琴声如何变幻，钟子期总能**一听便知**。
+
+这就是"知音"二字的由来——知音，不只是听懂琴声，更是**懂得你的心**。
+
+## 绝弦
+
+钟子期去世后，伯牙摔琴绝弦，终身不再鼓琴。
+
+旁人问起，伯牙说：
+
+> 摔碎瑶琴凤尾寒，子期不在对谁弹！
+> 春风满面皆朋友，欲觅知音难上难。
+
+从此，"高山流水"成了知音的代名词。
+
+## 古琴之韵
+
+与筝、琵琶不同，古琴的音量不大，甚至可以说**很轻**。但正是这种"轻"，造就了它的独特韵味。
+
+古琴的韵味，在于**内敛**。它不是弹给别人听的，而是弹给自己听的。正如伯牙与子期，琴声是心的交流，而非表演。
+
+## 尾声
+
+如今，"高山流水"仍在，《广陵散》也未曾绝响。
+
+但知音，依然难觅。
+
+若你遇见一个能听懂你琴声的人，**请一定珍惜**。
 `,v=`---
 title: 水墨前端开发指南：React 组件设计体系
 excerpt: 如何在水墨风设计语言下构建可复用的 React 组件体系？本文从设计令牌、组件分层、状态管理到性能优化，全面梳理了一套完整的技术方案。
@@ -477,21 +617,33 @@ type: tech\r
 ## 前言\r
 \r
 **Hello**`,x=`---
-title: Hello World
-excerpt: 这是我添加的第一篇文章，测试用
+title: Hello World — 图片测试
+excerpt: 这是一篇测试文章，包含图片渲染示例
 date: 丙午年 四月初一
 category: 笔墨随笔
-tags: [测试, hello]
+tags: [测试, hello, 图片]
 readingTime: 1
 type: prose
 ---
-你好，世界！
+## 图片渲染测试
 
-这是一篇测试文章。如果你看到这段文字，说明 \`.md\` 文件加载成功了。
+下面是一幅水墨山水画示例图片：
 
-- 文件名不需要数字前缀
-- 也可以加 \`id: 10\` 在 frontmatter 里指定 ID
-- 什么都不加也能自动生成 ID
+![水墨山水](/images/ink-landscape.svg)
+
+图片放在 \`public/images/\` 目录下，用标准的 Markdown 图片语法就可以了。
+
+> 支持 jpg、png、gif、webp、svg 格式
+
+### 其他语法测试
+
+**粗体**、*斜体*、\`行内代码\`
+
+- 列表项一
+- 列表项二
+
+[!NOTE]
+这是提示标注
 `,ee=`---
 title: 夜深
 order: 1
@@ -578,7 +730,7 @@ type: novel
 `)){let r=e.indexOf(`
 ---
 `,4);if(r===-1)return{data:t,content:n};let i=e.slice(4,r);n=e.slice(r+5);for(let e of i.split(`
-`)){let n=e.indexOf(`:`);if(n===-1)continue;let r=e.slice(0,n).trim(),i=e.slice(n+1).trim();i=i===`true`?!0:i===`false`?!1:/^\d+$/.test(i)?Number(i):i.startsWith(`[`)&&i.endsWith(`]`)?i.slice(1,-1).split(`,`).map(e=>e.trim().replace(/^["']|["']$/g,``)).filter(Boolean):i.replace(/^["']|["']$/g,``),r&&(t[r]=i)}}return{data:t,content:n.trimStart()}}var ae=Object.assign({"/src/posts/articles/001-mo-yun-shan-shui.md":f,"/src/posts/articles/002-liu-bai-kong-jian.md":p,"/src/posts/articles/003-ting-yuan.md":m,"/src/posts/articles/004-cha-dao.md":h,"/src/posts/articles/005-song-ci-yu.md":g,"/src/posts/articles/006-gu-qin.md":_,"/src/posts/articles/007-react-shui-mo-zhi-nan.md":v,"/src/posts/articles/009-css-shui-mo-dong-xiao.md":y,"/src/posts/articles/hello (2).md":b,"/src/posts/articles/hello.md":x}),oe=Object.assign({"/src/posts/novels/yu-ye-sui-bi/001-shen-ye.md":ee,"/src/posts/novels/yu-ye-sui-bi/002-ting-yu.md":te,"/src/posts/novels/yu-ye-sui-bi/003-yi-wang.md":S,"/src/posts/novels/yu-ye-sui-bi/004-mo.md":ne,"/src/posts/novels/yu-ye-sui-bi/005-ye-wei-yang.md":re,"/src/posts/novels/yu-ye-sui-bi/meta.md":ie});function se(e,t){let n=e.match(/\/(\d+)-/);if(n)return parseInt(n[1],10);if(typeof t.id==`number`)return t.id;let r=e.split(`/`).pop()??e,i=0;for(let e=0;e<r.length;e++)i=(i<<5)-i+r.charCodeAt(e)|0;return Math.abs(i)%1e5}function ce(e,t){let n=e.match(/\/novels\/(\d+)-/);if(n)return parseInt(n[1],10);if(typeof t.id==`number`)return t.id;let r=e.split(`/`).slice(-2,-1)[0]??e,i=0;for(let e=0;e<r.length;e++)i=(i<<5)-i+r.charCodeAt(e)|0;return Math.abs(i)%1e5}function le(e){return e.endsWith(`/meta.md`)}var ue=Object.entries(ae).map(([e,t])=>{let{data:n,content:r}=C(t);return{id:se(e,n),title:n.title||`无标题`,excerpt:n.excerpt||``,date:n.date||``,category:n.category||`未分类`,tags:n.tags||[],readingTime:n.readingTime||0,featured:n.featured||!1,type:n.type||`prose`,subCategory:n.subCategory||void 0,coverImage:n.coverImage||void 0,content:r.trim()||void 0}}).sort((e,t)=>e.id-t.id),de=Object.keys(oe).filter(le),w=Object.keys(oe).filter(e=>!le(e)),T=de.map(e=>{let t=oe[e],{data:n}=C(t),r=ce(e,n),i=e.replace(`/meta.md`,``),a=w.filter(e=>e.startsWith(i)).map(e=>{let{data:t,content:n}=C(oe[e]);return{title:t.title||``,order:parseInt(e.match(/\/(\d+)-/)?.[1]??`0`,10),content:n.trim()||``}}).sort((e,t)=>e.order-t.order);return{id:r,title:n.title||``,excerpt:n.excerpt||``,date:n.date||``,category:n.category||``,tags:n.tags||[],readingTime:n.readingTime||0,featured:n.featured||!1,type:`novel`,coverImage:n.coverImage||void 0,chapters:a,content:void 0}}),E=[...ue,...T].sort((e,t)=>e.id-t.id),fe=me(E),pe=D(E);function me(e){let t=new Map;for(let n of e){let e=t.get(n.category)??{count:0,subCategories:new Map};if(e.count++,n.subCategory){let t=e.subCategories.get(n.subCategory)??0;e.subCategories.set(n.subCategory,t+1)}t.set(n.category,e)}return Array.from(t.entries()).map(([e,t])=>{let n={name:e,count:t.count};return t.subCategories&&t.subCategories.size>0&&(n.subCategories=Array.from(t.subCategories.entries()).map(([e,t])=>({name:e,count:t}))),n})}function D(e){let t=new Map;for(let n of e)for(let e of n.tags)t.set(e,(t.get(e)??0)+1);return Array.from(t.entries()).map(([e,t])=>({name:e,count:t})).sort((e,t)=>t.count-e.count)}var O=e((e=>{var t=Symbol.for(`react.transitional.element`),n=Symbol.for(`react.fragment`);function r(e,n,r){var i=null;if(r!==void 0&&(i=``+r),n.key!==void 0&&(i=``+n.key),`key`in n)for(var a in r={},n)a!==`key`&&(r[a]=n[a]);else r=n;return n=r.ref,{$$typeof:t,type:e,key:i,ref:n===void 0?null:n,props:r}}e.Fragment=n,e.jsx=r,e.jsxs=r})),k=e(((e,t)=>{t.exports=O()}))();function he({currentPage:e}){let t=t=>e===t?`active`:``;return(0,k.jsx)(`header`,{className:`header`,children:(0,k.jsxs)(`div`,{className:`header__inner`,children:[(0,k.jsx)(`div`,{className:`header__brand`,children:(0,k.jsxs)(`a`,{href:`#/`,className:`header__logo`,children:[(0,k.jsx)(`span`,{className:`header__logo-icon`,children:d.logo.icon}),(0,k.jsx)(`span`,{className:`header__logo-text`,children:d.logo.text})]})}),(0,k.jsx)(`nav`,{className:`header__nav`,children:d.nav.map(e=>{let n=e.href.replace(`#/`,``)||`home`;return(0,k.jsx)(`a`,{href:e.href,className:`header__nav-link ${t(n)}`,children:e.label},e.href)})}),(0,k.jsxs)(`button`,{className:`header__menu-btn`,"aria-label":`菜单`,children:[(0,k.jsx)(`span`,{className:`header__menu-line`}),(0,k.jsx)(`span`,{className:`header__menu-line`}),(0,k.jsx)(`span`,{className:`header__menu-line`})]})]})})}function ge(){return(0,k.jsxs)(`section`,{className:`hero`,children:[(0,k.jsx)(`div`,{className:`hero__brush-top`}),(0,k.jsxs)(`div`,{className:`hero__content`,children:[(0,k.jsx)(`div`,{className:`hero__seal`,children:d.hero.seal}),(0,k.jsxs)(`h1`,{className:`hero__title`,children:[d.hero.title,(0,k.jsxs)(`span`,{className:`hero__title-sub`,children:[` `,d.hero.titleSub]})]}),(0,k.jsx)(`p`,{className:`hero__subtitle`,children:d.hero.subtitle}),(0,k.jsxs)(`div`,{className:`hero__actions`,children:[(0,k.jsx)(`button`,{className:`hero__btn hero__btn--primary`,onClick:e=>{e.preventDefault();let t=d.hero.primaryAction;t===`scroll`?setTimeout(()=>{document.querySelector(`.section--featured`)?.scrollIntoView({behavior:`smooth`})},50):window.location.hash=t},children:d.hero.primaryBtn}),(0,k.jsx)(`a`,{href:`#/about`,className:`hero__btn hero__btn--outline`,children:d.hero.secondaryBtn})]})]}),(0,k.jsx)(`div`,{className:`hero__brush-bottom`}),(0,k.jsx)(`div`,{className:`hero__ink-wash hero__ink-wash--1`}),(0,k.jsx)(`div`,{className:`hero__ink-wash hero__ink-wash--2`})]})}function _e({children:e,as:t=`h2`,accent:n=!1}){return(0,k.jsxs)(`div`,{className:`brush-title ${n?`brush-title--accent`:``}`,children:[(0,k.jsx)(t,{className:`brush-title__text`,children:e}),(0,k.jsx)(`div`,{className:`brush-title__underline`})]})}var ve=`ink_blog_views`;function ye(){try{return JSON.parse(localStorage.getItem(ve)||`{}`)}catch{return{}}}function be(e){let t=ye();t[e]=(t[e]||0)+1,localStorage.setItem(ve,JSON.stringify(t))}function xe(e){return ye()[e]||0}function Se({post:e}){let t=e.type===`tech`,n=e.type===`novel`,r=xe(e.id);return(0,k.jsxs)(`article`,{className:`article-card`,onClick:()=>{window.location.hash=`#/post/${e.id}`},children:[(0,k.jsx)(`div`,{className:`article-card__ink-bar ${t?`article-card__ink-bar--tech`:``} ${n?`article-card__ink-bar--novel`:``}`}),(0,k.jsxs)(`div`,{className:`article-card__body`,children:[(0,k.jsxs)(`div`,{className:`article-card__meta`,children:[(0,k.jsx)(`span`,{className:`article-card__category`,children:e.category}),t&&(0,k.jsx)(`span`,{className:`article-card__type-badge`,children:`技`}),n&&(0,k.jsx)(`span`,{className:`article-card__type-badge article-card__type-badge--novel`,children:`小说`}),(0,k.jsx)(`span`,{className:`article-card__date`,children:e.date})]}),(0,k.jsx)(`h3`,{className:`article-card__title`,children:e.title}),(0,k.jsx)(`p`,{className:`article-card__excerpt`,children:e.excerpt}),(0,k.jsxs)(`div`,{className:`article-card__footer`,children:[(0,k.jsx)(`div`,{className:`article-card__tags`,children:e.tags.map(e=>(0,k.jsx)(`a`,{className:`article-card__tag`,href:`#/filter/tag/${encodeURIComponent(e)}`,onClick:e=>e.stopPropagation(),children:e},e))}),(0,k.jsxs)(`div`,{className:`article-card__footer-right`,children:[(0,k.jsxs)(`span`,{className:`article-card__views`,children:[r,` 次阅读`]}),(0,k.jsxs)(`span`,{className:`article-card__reading-time`,children:[`阅读约 `,e.readingTime,` 分钟`]})]})]})]})]})}function Ce({tags:e}){return(0,k.jsx)(`div`,{className:`tag-cloud`,children:e.map(e=>(0,k.jsx)(`a`,{href:`#/filter/tag/${encodeURIComponent(e.name)}`,className:`tag-cloud__item`,children:e.name},e.name))})}function we({categories:e,tags:t}){let[n,r]=(0,l.useState)(null),i=e=>{r(t=>t===e?null:e)};return(0,k.jsxs)(`aside`,{className:`sidebar`,children:[(0,k.jsxs)(`div`,{className:`sidebar__section`,children:[(0,k.jsx)(`h3`,{className:`sidebar__title`,children:`分类`}),(0,k.jsx)(`ul`,{className:`sidebar__category-list`,children:e.map(e=>{let t=e.subCategories&&e.subCategories.length>0,r=n===e.name;return(0,k.jsxs)(`li`,{className:`sidebar__category-wrapper`,children:[(0,k.jsxs)(`div`,{className:`sidebar__category-item ${t?`sidebar__category-item--expandable`:``}`,onClick:t?()=>i(e.name):void 0,role:t?`button`:void 0,tabIndex:t?0:void 0,onKeyDown:t?t=>{(t.key===`Enter`||t.key===` `)&&(t.preventDefault(),i(e.name))}:void 0,children:[(0,k.jsxs)(`span`,{className:`sidebar__category-label`,children:[t&&(0,k.jsx)(`span`,{className:`sidebar__expand-icon ${r?`sidebar__expand-icon--open`:``}`,children:`▶`}),(0,k.jsx)(`a`,{href:`#/filter/category/${encodeURIComponent(e.name)}`,onClick:e=>e.stopPropagation(),children:e.name})]}),(0,k.jsx)(`span`,{className:`sidebar__category-count`,children:e.count})]}),t&&r&&(0,k.jsx)(`ul`,{className:`sidebar__subcategory-list`,children:e.subCategories.map(t=>(0,k.jsxs)(`li`,{className:`sidebar__subcategory-item`,children:[(0,k.jsx)(`a`,{href:`#/filter/category/${encodeURIComponent(e.name)}`,children:t.name}),(0,k.jsx)(`span`,{className:`sidebar__subcategory-count`,children:t.count})]},t.name))})]},e.name)})})]}),(0,k.jsxs)(`div`,{className:`sidebar__section`,children:[(0,k.jsx)(`h3`,{className:`sidebar__title`,children:`标签`}),(0,k.jsx)(Ce,{tags:t})]})]})}function Te({code:e,language:t=`text`}){return(0,k.jsxs)(`div`,{className:`code-block`,children:[(0,k.jsx)(`div`,{className:`code-block__brush`}),(0,k.jsx)(`div`,{className:`code-block__header`,children:(0,k.jsx)(`span`,{className:`code-block__lang`,children:t})}),(0,k.jsx)(`pre`,{className:`code-block__pre`,children:(0,k.jsx)(`code`,{className:`code-block__code language-${t}`,children:e})})]})}function Ee({headers:e,rows:t}){return(0,k.jsx)(`div`,{className:`ink-table-wrapper`,children:(0,k.jsxs)(`table`,{className:`ink-table`,children:[(0,k.jsx)(`thead`,{children:(0,k.jsx)(`tr`,{children:e.map(e=>(0,k.jsx)(`th`,{className:`ink-table__th`,children:e},e))})}),(0,k.jsx)(`tbody`,{children:t.map((e,t)=>(0,k.jsx)(`tr`,{className:`ink-table__row`,children:e.map((e,t)=>(0,k.jsx)(`td`,{className:`ink-table__td`,children:e},t))},t))})]})})}var De={note:`记`,warning:`慎`,tip:`巧`};function Oe({type:e,children:t}){return(0,k.jsxs)(`div`,{className:`callout callout--${e}`,children:[(0,k.jsx)(`div`,{className:`callout__bar`}),(0,k.jsxs)(`div`,{className:`callout__body`,children:[(0,k.jsx)(`span`,{className:`callout__icon`,children:De[e]}),(0,k.jsx)(`p`,{className:`callout__text`,children:t})]})]})}function ke(e){return e.toLowerCase().replace(/[^\w一-鿿]+/g,`-`).replace(/^-+|-+$/g,``)}function Ae(e){return e.replace(/\[([^\]]+)\]\(([^)]+)\)/g,`<a href="$2" target="_blank" rel="noopener">$1</a>`).replace(/\*\*(.+?)\*\*/g,`<strong>$1</strong>`).replace(/\*(.+?)\*/g,`<em>$1</em>`).replace(/`([^`]+)`/g,`<code class="inline-code">$1</code>`)}var A={CodeFence:`code-fence`,Heading:`heading`,Table:`table`,Callout:`callout`,Blockquote:`blockquote`,List:`list`,Hr:`hr`,Paragraph:`paragraph`},je=`%%CODE_FENCE_`;function Me(e){let t=[],n=0;return e.replace(/```\w*\n[\s\S]*?```/g,e=>(t.push(e),`${je}${n++}%%`)).split(/\n\n+/).map(e=>e.trim()).filter(Boolean).map(e=>e.replace(RegExp(`${je}(\\d+)%%`,`g`),(e,n)=>t[parseInt(n,10)]??``))}function Ne(e){return/^```\w*\n/.test(e)||e==="```"?{type:A.CodeFence,raw:e}:/^\[!(NOTE|WARNING|TIP)\]/i.test(e.trim())?{type:A.Callout,raw:e}:e.includes(`---`)&&e.split(`
+`)){let n=e.indexOf(`:`);if(n===-1)continue;let r=e.slice(0,n).trim(),i=e.slice(n+1).trim();i=i===`true`?!0:i===`false`?!1:/^\d+$/.test(i)?Number(i):i.startsWith(`[`)&&i.endsWith(`]`)?i.slice(1,-1).split(`,`).map(e=>e.trim().replace(/^["']|["']$/g,``)).filter(Boolean):i.replace(/^["']|["']$/g,``),r&&(t[r]=i)}}return{data:t,content:n.trimStart()}}var ae=Object.assign({"/src/posts/articles/001-mo-yun-shan-shui.md":f,"/src/posts/articles/002-liu-bai-kong-jian.md":p,"/src/posts/articles/003-ting-yuan.md":m,"/src/posts/articles/004-cha-dao.md":h,"/src/posts/articles/005-song-ci-yu.md":g,"/src/posts/articles/006-gu-qin.md":_,"/src/posts/articles/007-react-shui-mo-zhi-nan.md":v,"/src/posts/articles/009-css-shui-mo-dong-xiao.md":y,"/src/posts/articles/hello (2).md":b,"/src/posts/articles/hello.md":x}),oe=Object.assign({"/src/posts/novels/yu-ye-sui-bi/001-shen-ye.md":ee,"/src/posts/novels/yu-ye-sui-bi/002-ting-yu.md":te,"/src/posts/novels/yu-ye-sui-bi/003-yi-wang.md":S,"/src/posts/novels/yu-ye-sui-bi/004-mo.md":ne,"/src/posts/novels/yu-ye-sui-bi/005-ye-wei-yang.md":re,"/src/posts/novels/yu-ye-sui-bi/meta.md":ie});function se(e,t){let n=e.match(/\/(\d+)-/);if(n)return parseInt(n[1],10);if(typeof t.id==`number`)return t.id;let r=e.split(`/`).pop()??e,i=0;for(let e=0;e<r.length;e++)i=(i<<5)-i+r.charCodeAt(e)|0;return Math.abs(i)%1e5}function ce(e,t){let n=e.match(/\/novels\/(\d+)-/);if(n)return parseInt(n[1],10);if(typeof t.id==`number`)return t.id;let r=e.split(`/`).slice(-2,-1)[0]??e,i=0;for(let e=0;e<r.length;e++)i=(i<<5)-i+r.charCodeAt(e)|0;return Math.abs(i)%1e5}function le(e){return e.endsWith(`/meta.md`)}var ue=Object.entries(ae).map(([e,t])=>{let{data:n,content:r}=C(t);return{id:se(e,n),title:n.title||`无标题`,excerpt:n.excerpt||``,date:n.date||``,category:n.category||`未分类`,tags:n.tags||[],readingTime:n.readingTime||0,featured:n.featured||!1,type:n.type||`prose`,subCategory:n.subCategory||void 0,coverImage:n.coverImage||void 0,content:r.trim()||void 0}}).sort((e,t)=>e.id-t.id),de=Object.keys(oe).filter(le),w=Object.keys(oe).filter(e=>!le(e)),T=de.map(e=>{let t=oe[e],{data:n}=C(t),r=ce(e,n),i=e.replace(`/meta.md`,``),a=w.filter(e=>e.startsWith(i)).map(e=>{let{data:t,content:n}=C(oe[e]);return{title:t.title||``,order:parseInt(e.match(/\/(\d+)-/)?.[1]??`0`,10),content:n.trim()||``}}).sort((e,t)=>e.order-t.order);return{id:r,title:n.title||``,excerpt:n.excerpt||``,date:n.date||``,category:n.category||``,tags:n.tags||[],readingTime:n.readingTime||0,featured:n.featured||!1,type:`novel`,coverImage:n.coverImage||void 0,chapters:a,content:void 0}}),E=[...ue,...T].sort((e,t)=>e.id-t.id),fe=me(E),pe=D(E);function me(e){let t=new Map;for(let n of e){let e=t.get(n.category)??{count:0,subCategories:new Map};if(e.count++,n.subCategory){let t=e.subCategories.get(n.subCategory)??0;e.subCategories.set(n.subCategory,t+1)}t.set(n.category,e)}return Array.from(t.entries()).map(([e,t])=>{let n={name:e,count:t.count};return t.subCategories&&t.subCategories.size>0&&(n.subCategories=Array.from(t.subCategories.entries()).map(([e,t])=>({name:e,count:t}))),n})}function D(e){let t=new Map;for(let n of e)for(let e of n.tags)t.set(e,(t.get(e)??0)+1);return Array.from(t.entries()).map(([e,t])=>({name:e,count:t})).sort((e,t)=>t.count-e.count)}var O=e((e=>{var t=Symbol.for(`react.transitional.element`),n=Symbol.for(`react.fragment`);function r(e,n,r){var i=null;if(r!==void 0&&(i=``+r),n.key!==void 0&&(i=``+n.key),`key`in n)for(var a in r={},n)a!==`key`&&(r[a]=n[a]);else r=n;return n=r.ref,{$$typeof:t,type:e,key:i,ref:n===void 0?null:n,props:r}}e.Fragment=n,e.jsx=r,e.jsxs=r})),k=e(((e,t)=>{t.exports=O()}))();function he({currentPage:e}){let t=t=>e===t?`active`:``;return(0,k.jsx)(`header`,{className:`header`,children:(0,k.jsxs)(`div`,{className:`header__inner`,children:[(0,k.jsx)(`div`,{className:`header__brand`,children:(0,k.jsxs)(`a`,{href:`#/`,className:`header__logo`,children:[(0,k.jsx)(`span`,{className:`header__logo-icon`,children:d.logo.icon}),(0,k.jsx)(`span`,{className:`header__logo-text`,children:d.logo.text})]})}),(0,k.jsx)(`nav`,{className:`header__nav`,children:d.nav.map(e=>{let n=e.href.replace(`#/`,``)||`home`;return(0,k.jsx)(`a`,{href:e.href,className:`header__nav-link ${t(n)}`,children:e.label},e.href)})}),(0,k.jsxs)(`button`,{className:`header__menu-btn`,"aria-label":`菜单`,children:[(0,k.jsx)(`span`,{className:`header__menu-line`}),(0,k.jsx)(`span`,{className:`header__menu-line`}),(0,k.jsx)(`span`,{className:`header__menu-line`})]})]})})}function ge(){return(0,k.jsxs)(`section`,{className:`hero`,children:[(0,k.jsx)(`div`,{className:`hero__brush-top`}),(0,k.jsxs)(`div`,{className:`hero__content`,children:[(0,k.jsx)(`div`,{className:`hero__seal`,children:d.hero.seal}),(0,k.jsxs)(`h1`,{className:`hero__title`,children:[d.hero.title,(0,k.jsxs)(`span`,{className:`hero__title-sub`,children:[` `,d.hero.titleSub]})]}),(0,k.jsx)(`p`,{className:`hero__subtitle`,children:d.hero.subtitle}),(0,k.jsxs)(`div`,{className:`hero__actions`,children:[(0,k.jsx)(`button`,{className:`hero__btn hero__btn--primary`,onClick:e=>{e.preventDefault();let t=d.hero.primaryAction;t===`scroll`?setTimeout(()=>{document.querySelector(`.section--featured`)?.scrollIntoView({behavior:`smooth`})},50):window.location.hash=t},children:d.hero.primaryBtn}),(0,k.jsx)(`a`,{href:`#/about`,className:`hero__btn hero__btn--outline`,children:d.hero.secondaryBtn})]})]}),(0,k.jsx)(`div`,{className:`hero__brush-bottom`}),(0,k.jsx)(`div`,{className:`hero__ink-wash hero__ink-wash--1`}),(0,k.jsx)(`div`,{className:`hero__ink-wash hero__ink-wash--2`})]})}function _e({children:e,as:t=`h2`,accent:n=!1}){return(0,k.jsxs)(`div`,{className:`brush-title ${n?`brush-title--accent`:``}`,children:[(0,k.jsx)(t,{className:`brush-title__text`,children:e}),(0,k.jsx)(`div`,{className:`brush-title__underline`})]})}var ve=`ink_blog_views`;function ye(){try{return JSON.parse(localStorage.getItem(ve)||`{}`)}catch{return{}}}function be(e){let t=ye();t[e]=(t[e]||0)+1,localStorage.setItem(ve,JSON.stringify(t))}function xe(e){return ye()[e]||0}function Se({post:e}){let t=e.type===`tech`,n=e.type===`novel`,r=xe(e.id);return(0,k.jsxs)(`article`,{className:`article-card`,onClick:()=>{window.location.hash=`#/post/${e.id}`},children:[(0,k.jsx)(`div`,{className:`article-card__ink-bar ${t?`article-card__ink-bar--tech`:``} ${n?`article-card__ink-bar--novel`:``}`}),(0,k.jsxs)(`div`,{className:`article-card__body`,children:[(0,k.jsxs)(`div`,{className:`article-card__meta`,children:[(0,k.jsx)(`span`,{className:`article-card__category`,children:e.category}),t&&(0,k.jsx)(`span`,{className:`article-card__type-badge`,children:`技`}),n&&(0,k.jsx)(`span`,{className:`article-card__type-badge article-card__type-badge--novel`,children:`小说`}),(0,k.jsx)(`span`,{className:`article-card__date`,children:e.date})]}),(0,k.jsx)(`h3`,{className:`article-card__title`,children:e.title}),(0,k.jsx)(`p`,{className:`article-card__excerpt`,children:e.excerpt}),(0,k.jsxs)(`div`,{className:`article-card__footer`,children:[(0,k.jsx)(`div`,{className:`article-card__tags`,children:e.tags.map(e=>(0,k.jsx)(`a`,{className:`article-card__tag`,href:`#/filter/tag/${encodeURIComponent(e)}`,onClick:e=>e.stopPropagation(),children:e},e))}),(0,k.jsxs)(`div`,{className:`article-card__footer-right`,children:[(0,k.jsxs)(`span`,{className:`article-card__views`,children:[r,` 次阅读`]}),(0,k.jsxs)(`span`,{className:`article-card__reading-time`,children:[`阅读约 `,e.readingTime,` 分钟`]})]})]})]})]})}function Ce({tags:e}){return(0,k.jsx)(`div`,{className:`tag-cloud`,children:e.map(e=>(0,k.jsx)(`a`,{href:`#/filter/tag/${encodeURIComponent(e.name)}`,className:`tag-cloud__item`,children:e.name},e.name))})}function we({categories:e,tags:t}){let[n,r]=(0,l.useState)(null),i=e=>{r(t=>t===e?null:e)};return(0,k.jsxs)(`aside`,{className:`sidebar`,children:[(0,k.jsxs)(`div`,{className:`sidebar__section`,children:[(0,k.jsx)(`h3`,{className:`sidebar__title`,children:`分类`}),(0,k.jsx)(`ul`,{className:`sidebar__category-list`,children:e.map(e=>{let t=e.subCategories&&e.subCategories.length>0,r=n===e.name;return(0,k.jsxs)(`li`,{className:`sidebar__category-wrapper`,children:[(0,k.jsxs)(`div`,{className:`sidebar__category-item ${t?`sidebar__category-item--expandable`:``}`,onClick:t?()=>i(e.name):void 0,role:t?`button`:void 0,tabIndex:t?0:void 0,onKeyDown:t?t=>{(t.key===`Enter`||t.key===` `)&&(t.preventDefault(),i(e.name))}:void 0,children:[(0,k.jsxs)(`span`,{className:`sidebar__category-label`,children:[t&&(0,k.jsx)(`span`,{className:`sidebar__expand-icon ${r?`sidebar__expand-icon--open`:``}`,children:`▶`}),(0,k.jsx)(`a`,{href:`#/filter/category/${encodeURIComponent(e.name)}`,onClick:e=>e.stopPropagation(),children:e.name})]}),(0,k.jsx)(`span`,{className:`sidebar__category-count`,children:e.count})]}),t&&r&&(0,k.jsx)(`ul`,{className:`sidebar__subcategory-list`,children:e.subCategories.map(t=>(0,k.jsxs)(`li`,{className:`sidebar__subcategory-item`,children:[(0,k.jsx)(`a`,{href:`#/filter/category/${encodeURIComponent(e.name)}`,children:t.name}),(0,k.jsx)(`span`,{className:`sidebar__subcategory-count`,children:t.count})]},t.name))})]},e.name)})})]}),(0,k.jsxs)(`div`,{className:`sidebar__section`,children:[(0,k.jsx)(`h3`,{className:`sidebar__title`,children:`标签`}),(0,k.jsx)(Ce,{tags:t})]})]})}function Te({code:e,language:t=`text`}){return(0,k.jsxs)(`div`,{className:`code-block`,children:[(0,k.jsx)(`div`,{className:`code-block__brush`}),(0,k.jsx)(`div`,{className:`code-block__header`,children:(0,k.jsx)(`span`,{className:`code-block__lang`,children:t})}),(0,k.jsx)(`pre`,{className:`code-block__pre`,children:(0,k.jsx)(`code`,{className:`code-block__code language-${t}`,children:e})})]})}function Ee({headers:e,rows:t}){return(0,k.jsx)(`div`,{className:`ink-table-wrapper`,children:(0,k.jsxs)(`table`,{className:`ink-table`,children:[(0,k.jsx)(`thead`,{children:(0,k.jsx)(`tr`,{children:e.map(e=>(0,k.jsx)(`th`,{className:`ink-table__th`,children:e},e))})}),(0,k.jsx)(`tbody`,{children:t.map((e,t)=>(0,k.jsx)(`tr`,{className:`ink-table__row`,children:e.map((e,t)=>(0,k.jsx)(`td`,{className:`ink-table__td`,children:e},t))},t))})]})})}var De={note:`记`,warning:`慎`,tip:`巧`};function Oe({type:e,children:t}){return(0,k.jsxs)(`div`,{className:`callout callout--${e}`,children:[(0,k.jsx)(`div`,{className:`callout__bar`}),(0,k.jsxs)(`div`,{className:`callout__body`,children:[(0,k.jsx)(`span`,{className:`callout__icon`,children:De[e]}),(0,k.jsx)(`p`,{className:`callout__text`,children:t})]})]})}function ke(e){return e.toLowerCase().replace(/[^\w一-鿿]+/g,`-`).replace(/^-+|-+$/g,``)}function Ae(e){return e.replace(/!\[([^\]]*)\]\(([^)]+)\)/g,`<img src="$2" alt="$1" class="ink-image" loading="lazy" />`).replace(/\[([^\]]+)\]\(([^)]+)\)/g,`<a href="$2" target="_blank" rel="noopener">$1</a>`).replace(/\*\*(.+?)\*\*/g,`<strong>$1</strong>`).replace(/\*(.+?)\*/g,`<em>$1</em>`).replace(/`([^`]+)`/g,`<code class="inline-code">$1</code>`)}var A={CodeFence:`code-fence`,Heading:`heading`,Table:`table`,Callout:`callout`,Blockquote:`blockquote`,List:`list`,Hr:`hr`,Paragraph:`paragraph`},je=`%%CODE_FENCE_`;function Me(e){let t=[],n=0;return e.replace(/```\w*\n[\s\S]*?```/g,e=>(t.push(e),`${je}${n++}%%`)).split(/\n\n+/).map(e=>e.trim()).filter(Boolean).map(e=>e.replace(RegExp(`${je}(\\d+)%%`,`g`),(e,n)=>t[parseInt(n,10)]??``))}function Ne(e){return/^```\w*\n/.test(e)||e==="```"?{type:A.CodeFence,raw:e}:/^\[!(NOTE|WARNING|TIP)\]/i.test(e.trim())?{type:A.Callout,raw:e}:e.includes(`---`)&&e.split(`
 `).every(e=>e.trim().startsWith(`|`))?{type:A.Table,raw:e}:/^#{1,3}\s/.test(e.trim())?{type:A.Heading,raw:e}:/^---+\s*$/.test(e.trim())?{type:A.Hr,raw:e}:e.trim().startsWith(`> `)?{type:A.Blockquote,raw:e}:/^(\s*[-*]\s|\s*\d+\.\s)/m.test(e.trim())?{type:A.List,raw:e}:{type:A.Paragraph,raw:e}}function Pe(e){let t=e.split(`
 `).map(e=>e.trim().replace(/^\||\|$/g,``));return{headers:t[0].split(`|`).map(e=>e.trim()),rows:t.slice(2).map(e=>e.split(`|`).map(e=>e.trim()))}}function Fe(e){let t=e.split(`
 `).map(e=>e.replace(/^(\s*)[-*\d]+\.\s+/,`$1`).trim()).filter(Boolean);return{ordered:/^\s*\d+\.\s/.test(e.trim()),items:t}}function Ie(e){let t=e.trim().match(/^\[!(NOTE|WARNING|TIP)\]\s*([\s\S]*)/i);return{type:t?.[1]?.toLowerCase()??`note`,text:t?.[2]?.trim()??e}}function Le(e){let t=e.trim(),n=t.match(/^#+/)?.[0].length??2,r=t.replace(/^#+\s+/,``);return{level:n,text:r,id:ke(r)}}function Re({content:e,onHeadings:t}){return(0,k.jsx)(`div`,{className:`markdown-body`,children:(0,l.useMemo)(()=>{let n=Me(e),r=[],i=[];for(let e of n){let t=Ne(e);if(t.type===A.Heading){let t=Le(e);i.push({id:t.id,text:t.text,level:t.level})}r.push(t)}return setTimeout(()=>t?.(i),0),r},[e,t]).map((e,t)=>{switch(e.type){case A.CodeFence:{let n=e.raw.split(`
