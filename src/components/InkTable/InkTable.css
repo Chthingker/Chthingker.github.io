@@ -1,0 +1,57 @@
+.ink-table-wrapper {
+  margin: var(--spacing-lg) 0;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.ink-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--font-body);
+  font-size: 0.92rem;
+  color: var(--ink-dark);
+}
+
+.ink-table__th {
+  font-family: var(--font-brush);
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 2px;
+  text-align: left;
+  padding: 12px var(--spacing-md);
+  border-bottom: 2px solid var(--ink-medium);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.03),
+    transparent
+  );
+  color: var(--ink-black);
+  white-space: nowrap;
+}
+
+.ink-table__td {
+  padding: 10px var(--spacing-md);
+  border-bottom: 1px solid var(--ink-faint);
+  line-height: 1.6;
+}
+
+.ink-table__row:nth-child(even) .ink-table__td {
+  background: rgba(0, 0, 0, 0.015);
+}
+
+.ink-table__row:hover .ink-table__td {
+  background: rgba(0, 0, 0, 0.025);
+}
+
+.ink-table-wrapper::-webkit-scrollbar {
+  height: 6px;
+}
+
+.ink-table-wrapper::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.ink-table-wrapper::-webkit-scrollbar-thumb {
+  background: var(--ink-faint);
+  border-radius: 3px;
+}

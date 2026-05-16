@@ -1,0 +1,138 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+/* Sections */
+.section {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--spacing-xl);
+}
+
+.section--featured {
+  margin-top: var(--spacing-2xl);
+}
+
+/* Featured grid */
+.featured-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing-lg);
+  margin-bottom: var(--spacing-xl);
+}
+
+/* Main layout: posts + sidebar */
+.main-layout {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: var(--spacing-2xl);
+  align-items: start;
+}
+
+.main-layout__content {
+  min-width: 0;
+}
+
+.main-layout__sidebar {
+  min-width: 0;
+}
+
+/* Post list */
+.post-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-lg);
+}
+
+/* Filter bar */
+.filter-bar {
+  padding-top: var(--spacing-xl);
+}
+
+.filter-bar__back {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  background: none;
+  border: none;
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  color: var(--ink-light);
+  cursor: pointer;
+  padding: var(--spacing-sm) 0;
+  transition: color var(--transition-fast);
+  letter-spacing: 1px;
+  margin-bottom: var(--spacing-md);
+}
+
+.filter-bar__back:hover {
+  color: var(--cinnabar);
+}
+
+.filter-bar__empty {
+  text-align: center;
+  color: var(--ink-lighter);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  padding: var(--spacing-2xl) 0;
+  letter-spacing: 1px;
+}
+
+/* Load more */
+.load-more-wrap {
+  display: flex;
+  justify-content: center;
+  margin: var(--spacing-xl) 0 var(--spacing-2xl);
+}
+
+.load-more-btn {
+  background: none;
+  border: 1px solid var(--ink-faint);
+  padding: 12px 36px;
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  color: var(--ink-light);
+  cursor: pointer;
+  letter-spacing: 3px;
+  transition: all var(--transition-medium);
+}
+
+.load-more-btn:hover {
+  border-color: var(--ink-dark);
+  color: var(--ink-dark);
+}
+
+@media (max-width: 960px) {
+  .main-layout {
+    grid-template-columns: 1fr;
+  }
+  .main-layout__sidebar {
+    display: none;
+  }
+}
+
+.not-found {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40vh;
+  color: var(--ink-lighter);
+  font-family: var(--font-brush);
+  font-size: 1.2rem;
+  letter-spacing: 3px;
+}
+
+@media (max-width: 640px) {
+  .featured-grid {
+    grid-template-columns: 1fr;
+  }
+  .section {
+    padding: 0 var(--spacing-md);
+  }
+}

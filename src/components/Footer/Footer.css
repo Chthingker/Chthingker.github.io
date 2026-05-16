@@ -1,0 +1,110 @@
+.footer {
+  position: relative;
+  background: var(--ink-black);
+  color: var(--rice-paper);
+  margin-top: var(--spacing-3xl);
+  overflow: hidden;
+}
+
+.footer__ink-wash {
+  position: absolute;
+  top: -80px;
+  left: 0;
+  right: 0;
+  height: 80px;
+  background: linear-gradient(
+    180deg,
+    transparent 0%,
+    rgba(26, 26, 26, 0.6) 40%,
+    var(--ink-black) 100%
+  );
+}
+
+.footer__inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: var(--spacing-2xl);
+  padding: var(--spacing-3xl) var(--spacing-xl);
+  position: relative;
+  z-index: 1;
+}
+
+.footer__title {
+  font-family: var(--font-brush);
+  font-size: 1.8rem;
+  letter-spacing: 6px;
+  margin-bottom: var(--spacing-md);
+  color: var(--rice-paper);
+  font-weight: 400;
+}
+
+.footer__desc {
+  font-size: 0.9rem;
+  color: var(--ink-lighter);
+  line-height: 1.8;
+  max-width: 320px;
+  letter-spacing: 1px;
+}
+
+.footer__heading {
+  font-family: var(--font-brush);
+  font-size: 1.1rem;
+  letter-spacing: 3px;
+  margin-bottom: var(--spacing-md);
+  color: var(--rice-paper);
+  font-weight: 400;
+}
+
+.footer__links {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+}
+
+.footer__links a {
+  color: var(--ink-lighter);
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  transition: color var(--transition-medium);
+}
+
+.footer__links a:hover {
+  color: var(--rice-paper);
+}
+
+.footer__bottom {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  padding: var(--spacing-lg) var(--spacing-xl);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-md);
+  font-size: 0.85rem;
+  color: var(--ink-lighter);
+  letter-spacing: 2px;
+}
+
+.footer__seal {
+  width: 32px;
+  height: 32px;
+  border: 1px solid var(--cinnabar);
+  color: var(--cinnabar);
+  font-family: var(--font-brush);
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: rotate(-5deg);
+  opacity: 0.7;
+}
+
+@media (max-width: 768px) {
+  .footer__inner {
+    grid-template-columns: 1fr;
+    gap: var(--spacing-xl);
+  }
+}

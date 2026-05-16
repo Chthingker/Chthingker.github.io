@@ -1,0 +1,194 @@
+.hero {
+  position: relative;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 120px var(--spacing-xl) 80px;
+  overflow: hidden;
+  text-align: center;
+}
+
+/* 毛笔刷效果线条 */
+.hero__brush-top,
+.hero__brush-bottom {
+  position: absolute;
+  left: 10%;
+  right: 10%;
+  height: 3px;
+  opacity: 0.3;
+}
+
+.hero__brush-top {
+  top: 80px;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--ink-black) 15%,
+    var(--ink-black) 50%,
+    var(--ink-medium) 80%,
+    transparent 100%
+  );
+  border-radius: 50%;
+}
+
+.hero__brush-bottom {
+  bottom: 40px;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--ink-medium) 20%,
+    var(--ink-lighter) 60%,
+    transparent 100%
+  );
+}
+
+/* 水墨晕染装饰 */
+.hero__ink-wash {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.04;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.hero__ink-wash--1 {
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, var(--ink-black) 0%, transparent 70%);
+  top: -100px;
+  right: -100px;
+  animation: inkDrift 20s ease-in-out infinite;
+}
+
+.hero__ink-wash--2 {
+  width: 400px;
+  height: 400px;
+  background: radial-gradient(circle, var(--ink-wash-blue) 0%, transparent 70%);
+  bottom: -80px;
+  left: -80px;
+  animation: inkDrift 25s ease-in-out infinite reverse;
+}
+
+@keyframes inkDrift {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  33% { transform: translate(30px, -20px) scale(1.05); }
+  66% { transform: translate(-20px, 15px) scale(0.95); }
+}
+
+/* 朱砂印章 */
+.hero__seal {
+  width: 72px;
+  height: 72px;
+  border: 2px solid var(--cinnabar);
+  color: var(--cinnabar);
+  font-family: var(--font-brush);
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto var(--spacing-xl);
+  transform: rotate(-3deg);
+  letter-spacing: 0;
+  transition: transform var(--transition-slow);
+}
+
+.hero__seal:hover {
+  transform: rotate(0deg) scale(1.05);
+}
+
+/* 标题 */
+.hero__title {
+  font-family: var(--font-brush);
+  font-size: 3.5rem;
+  font-weight: 400;
+  color: var(--ink-black);
+  letter-spacing: 6px;
+  line-height: 1.3;
+  margin-bottom: var(--spacing-lg);
+}
+
+.hero__title-sub {
+  font-size: 1.2rem;
+  color: var(--ink-light);
+  letter-spacing: 3px;
+  font-weight: 200;
+}
+
+.hero__subtitle {
+  font-size: 1.05rem;
+  color: var(--ink-medium);
+  max-width: 560px;
+  line-height: 2;
+  margin: 0 auto var(--spacing-2xl);
+  letter-spacing: 1px;
+}
+
+/* 按钮 */
+.hero__actions {
+  display: flex;
+  gap: var(--spacing-md);
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.hero__btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 12px 32px;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  letter-spacing: 3px;
+  text-decoration: none;
+  transition: all var(--transition-medium);
+  cursor: pointer;
+}
+
+.hero__btn--primary {
+  background: var(--ink-black);
+  color: var(--rice-paper);
+  border: 1px solid var(--ink-black);
+}
+
+.hero__btn--primary:hover {
+  background: var(--ink-dark);
+  color: var(--rice-paper);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.hero__btn--outline {
+  background: transparent;
+  color: var(--ink-dark);
+  border: 1px solid var(--ink-lighter);
+}
+
+.hero__btn--outline:hover {
+  border-color: var(--ink-dark);
+  transform: translateY(-1px);
+}
+
+@media (max-width: 768px) {
+  .hero {
+    min-height: 60vh;
+    padding: 100px var(--spacing-md) 60px;
+  }
+
+  .hero__title {
+    font-size: 2.2rem;
+    letter-spacing: 4px;
+  }
+
+  .hero__title-sub {
+    font-size: 1rem;
+    display: block;
+    margin-top: var(--spacing-sm);
+  }
+
+  .hero__ink-wash--1,
+  .hero__ink-wash--2 {
+    width: 250px;
+    height: 250px;
+  }
+}

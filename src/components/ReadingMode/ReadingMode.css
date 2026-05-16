@@ -1,0 +1,226 @@
+.reading-mode {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  background: var(--rice-paper);
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-body);
+}
+
+/* ── Top bar ── */
+.reading-mode__topbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 56px;
+  background: rgba(245, 240, 232, 0.95);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--ink-faint);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--spacing-lg);
+  z-index: 1;
+}
+
+.reading-mode__exit {
+  background: none;
+  border: 1px solid var(--ink-faint);
+  padding: 6px 16px;
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  color: var(--ink-medium);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  letter-spacing: 1px;
+  flex-shrink: 0;
+}
+
+.reading-mode__exit:hover {
+  border-color: var(--ink-dark);
+  color: var(--ink-dark);
+}
+
+.reading-mode__title-area {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  overflow: hidden;
+  margin: 0 var(--spacing-md);
+  flex: 1;
+  justify-content: center;
+}
+
+.reading-mode__book-title {
+  font-family: var(--font-brush);
+  font-size: 1rem;
+  color: var(--ink-black);
+  letter-spacing: 2px;
+  white-space: nowrap;
+}
+
+.reading-mode__chapter-sep {
+  color: var(--ink-lighter);
+  flex-shrink: 0;
+}
+
+.reading-mode__chapter-name {
+  font-size: 0.9rem;
+  color: var(--ink-light);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.reading-mode__select {
+  background: var(--rice-paper-dark);
+  border: 1px solid var(--ink-faint);
+  padding: 6px 10px;
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  color: var(--ink-dark);
+  cursor: pointer;
+  max-width: 140px;
+  flex-shrink: 0;
+}
+
+/* ── Body ── */
+.reading-mode__body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 80px var(--spacing-xl) 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.reading-mode__chapter-heading {
+  font-family: var(--font-brush);
+  font-size: 1.6rem;
+  color: var(--ink-black);
+  letter-spacing: 6px;
+  margin-bottom: var(--spacing-2xl);
+  text-align: center;
+  font-weight: 400;
+}
+
+.reading-mode__content {
+  max-width: 700px;
+  width: 100%;
+  font-size: 1.15rem;
+  line-height: 2;
+  color: var(--ink-dark);
+}
+
+/* Override MarkdownRenderer styles inside reading mode for larger font */
+.reading-mode__content .markdown-body {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.reading-mode__content .markdown-paragraph {
+  margin-bottom: var(--spacing-lg);
+  text-indent: 2em;
+}
+
+.reading-mode__content .markdown-blockquote {
+  margin: var(--spacing-lg) var(--spacing-lg);
+  font-size: 1rem;
+}
+
+.reading-mode__content .ink-divider {
+  margin: var(--spacing-2xl) 0;
+}
+
+/* ── Bottom bar ── */
+.reading-mode__bottombar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 64px;
+  background: rgba(245, 240, 232, 0.95);
+  backdrop-filter: blur(8px);
+  border-top: 1px solid var(--ink-faint);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-xl);
+  z-index: 1;
+}
+
+.reading-mode__nav-btn {
+  background: none;
+  border: 1px solid var(--ink-lighter);
+  padding: 8px 24px;
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  color: var(--ink-dark);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  letter-spacing: 2px;
+  min-width: 120px;
+  text-align: center;
+}
+
+.reading-mode__nav-btn:hover:not(:disabled) {
+  border-color: var(--ink-black);
+  background: var(--ink-black);
+  color: var(--rice-paper);
+}
+
+.reading-mode__nav-btn:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+.reading-mode__progress {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  color: var(--ink-light);
+  letter-spacing: 1px;
+  min-width: 60px;
+  text-align: center;
+}
+
+.reading-mode__empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: var(--ink-lighter);
+  font-family: var(--font-brush);
+  font-size: 1.2rem;
+}
+
+/* ── Responsive ── */
+@media (max-width: 640px) {
+  .reading-mode__body {
+    padding: 80px var(--spacing-md) 100px;
+  }
+
+  .reading-mode__chapter-heading {
+    font-size: 1.3rem;
+  }
+
+  .reading-mode__content {
+    font-size: 1.05rem;
+  }
+
+  .reading-mode__nav-btn {
+    min-width: 90px;
+    padding: 8px 16px;
+    font-size: 0.85rem;
+  }
+
+  .reading-mode__topbar {
+    padding: 0 var(--spacing-sm);
+  }
+
+  .reading-mode__select {
+    max-width: 100px;
+    font-size: 0.8rem;
+  }
+}

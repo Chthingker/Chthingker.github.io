@@ -1,0 +1,45 @@
+.brush-title {
+  text-align: center;
+  margin-bottom: var(--spacing-2xl);
+}
+
+.brush-title__text {
+  font-family: var(--font-brush);
+  font-weight: 400;
+  color: var(--ink-black);
+  letter-spacing: 6px;
+  line-height: 1.4;
+  font-size: 2rem;
+}
+
+.brush-title--accent .brush-title__text {
+  color: var(--cinnabar);
+}
+
+.brush-title__underline {
+  width: 60px;
+  height: 2px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--ink-medium),
+    transparent
+  );
+  margin: var(--spacing-md) auto 0;
+  border-radius: 1px;
+}
+
+.brush-title--accent .brush-title__underline {
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--cinnabar),
+    transparent
+  );
+}
+
+@media (max-width: 640px) {
+  .brush-title__text {
+    font-size: 1.6rem;
+  }
+}

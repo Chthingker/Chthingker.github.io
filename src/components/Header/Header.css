@@ -1,0 +1,118 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  background: rgba(245, 240, 232, 0.92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--ink-faint);
+  font-family: var(--font-body);
+}
+
+.header__inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--spacing-xl);
+  height: 64px;
+}
+
+.header__brand {
+  flex-shrink: 0;
+}
+
+.header__logo {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  text-decoration: none;
+}
+
+.header__logo-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background: var(--ink-black);
+  color: var(--rice-paper);
+  font-family: var(--font-brush);
+  font-size: 1.4rem;
+  border-radius: 50%;
+  letter-spacing: 0;
+}
+
+.header__logo-text {
+  font-family: var(--font-brush);
+  font-size: 1.5rem;
+  color: var(--ink-black);
+  letter-spacing: 4px;
+}
+
+.header__nav {
+  display: flex;
+  gap: var(--spacing-xl);
+}
+
+.header__nav-link {
+  font-size: 0.95rem;
+  color: var(--ink-medium);
+  text-decoration: none;
+  position: relative;
+  padding: 4px 0;
+  letter-spacing: 2px;
+  transition: color var(--transition-medium);
+}
+
+.header__nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 50%;
+  width: 0;
+  height: 1px;
+  background: var(--ink-black);
+  transition: all var(--transition-medium);
+  transform: translateX(-50%);
+}
+
+.header__nav-link:hover,
+.header__nav-link.active {
+  color: var(--ink-black);
+}
+
+.header__nav-link:hover::after,
+.header__nav-link.active::after {
+  width: 100%;
+}
+
+.header__menu-btn {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+}
+
+.header__menu-line {
+  display: block;
+  width: 24px;
+  height: 1px;
+  background: var(--ink-dark);
+  transition: all var(--transition-fast);
+}
+
+@media (max-width: 768px) {
+  .header__nav {
+    display: none;
+  }
+
+  .header__menu-btn {
+    display: flex;
+  }
+}

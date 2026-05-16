@@ -1,0 +1,25 @@
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+}
+
+.tag-cloud__item {
+  display: inline-block;
+  padding: 4px 14px;
+  font-size: 0.85rem;
+  color: var(--ink-medium);
+  border: 1px solid var(--ink-faint);
+  border-radius: 2px;
+  text-decoration: none;
+  font-family: var(--font-body);
+  letter-spacing: 1px;
+  transition: all var(--transition-medium);
+  background: transparent;
+}
+
+.tag-cloud__item:hover {
+  color: var(--rice-paper);
+  background: var(--ink-black);
+  border-color: var(--ink-black);
+}
